@@ -85,8 +85,8 @@
     "layout": "modern",
     "bgMode": "diagonal",
     "cardColor": "#0d1117",
-    "bgColor1": "#b4cc00",
-    "bgColor2": "#1b21c0",
+    "bgColor1": "#fbff00",
+    "bgColor2": "#2328cd",
     "heroColor": "#0d1117"
   },
   "toggles": {
