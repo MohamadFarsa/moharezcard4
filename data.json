@@ -80,11 +80,11 @@
     "mapLink": "https://maps.app.goo.gl/twG4o3eUR7WpixCx5"
   },
   "theme": {
-    "accentPreset": "green",
+    "accentPreset": "orange",
     "font": "Vazirmatn",
     "layout": "modern",
     "bgMode": "solid",
-    "cardColor": "#efff0a",
+    "cardColor": "#98a300",
     "bgColor1": "#fbff00",
     "bgColor2": "#2328cd",
     "heroColor": "#0d1117"
